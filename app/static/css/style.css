@@ -161,6 +161,12 @@ form input {
     float: right;
 }
 
+form input[type=checkbox] {
+    margin: 5px 107px 0 -47px;
+    cursor: pointer;
+    padding: 0 0 0 0;
+}
+
 form select {
     width: 164px;
     margin: 2px 20px 5px 5px;
@@ -216,3 +222,4 @@ article table td {
 .vega-embed summary {
     display: none;
 }
+

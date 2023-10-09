@@ -13,3 +13,4 @@ pymongo[srv]
 python-dotenv
 scikit-learn
 scipy
+pytest
